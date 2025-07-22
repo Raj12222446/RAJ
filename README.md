@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm SAURABH KUMAR</h1>
-<h3 align="center">A passionate Cyber Security Engineer and Full Satck Developer</h3>
+<h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm RAJ KUMAR BHARTI</h1>
+<h3 align="center">A passionate Full Satck Developer</h3>
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*RCHvLC5T-CNGbc5GWzSvoA.gif)
+![]()
                   ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY4bDJkcHV1ZTY2N3lweW44MWlkMzBjZmFhZnJpczZsdmQ3bHM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solankiboy939" alt="Saurabhkumar12221209" /></a> </p>
 
 - 🧾 My Resume Profile [profile-https://saurabh7.netlify.app/]
-- 📫 How to reach me **saurabhkumarp534@gmail.com**
+- 📫 How to reach me **rajkb821112@gmail.com**
 - ⚡ Fun fact: **I prefer dark mode Because light attracts bugs!**
 - 🎶 Favorite Beat: **Algo-rhythm**
 - ☕ If you're generous enough you can always buy me a coffee from [Here]()
