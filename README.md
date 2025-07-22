@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLzj8hPBpm3o1QpAmRQWK82kA4aWEi42fYA&s"width="25" height="28">, I'm RAJ KUMAR BHARTI</h1>
 <h3 align="center">A passionate Full Satck Developer</h3>
 
-![]()
+![](https://iconscout.com/lottie-animation/java-14540207_11690901)
                   ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGY4bDJkcHV1ZTY2N3lweW44MWlkMzBjZmFhZnJpczZsdmQ3bHM2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
